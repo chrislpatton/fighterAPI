@@ -1,0 +1,23 @@
+{
+  "name": "fighterapi",
+  "version": "1.0.0",
+  "engines": {
+    "node": "4.3.0",
+    "npm": "3.7.2"
+  },
+  "description": "mma fighter api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Patton",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.4.5",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.0.6",
+    "mongoose": "^4.4.4"
+  }
+}
